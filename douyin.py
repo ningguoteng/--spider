@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+#抖音短链接解析不带水印视频并下载到本地
 import re
 
 import requests
